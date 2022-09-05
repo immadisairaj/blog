@@ -15,6 +15,8 @@ First, you have to know What **Music** is?
 
 *Vocal, Instrument, Dance*. All these three together form a Music. Vocal is the Singing part, Instrument gives the flavor to the Song, and last the Dance is where they act according to the Song. This leads to the Music.
 
+<!--truncate-->
+
 In India, we have two types of Music which are **Hindustani Shastreeya Sangeeth** (Hindustani) and **Karnataka Shastreeya Sangeeth** (Carnatic). These are Classical Music forms. *Hindustani Classical Music* is from the North part of India and *Carnatic Classical Music* is from the South part of India. These forms they have the same 7 swaras (Sa-Shadjam, Re-Rishabham, Ga-Gandharam, Ma-Madyamam, Pa-Panchamam, Da-Daiwatham, Ni-Nishadham). The basic difference between these is in the form of compositions and the concert setup. *Hindustani* compositions are Khayal, Dhrupad, Tarana, Thumri, Dhamaar, and concert setup is Singer supported by Harmonium, Tabla, etc. *Carnatic* compositions are Varnam, Kriti, Tillana, Javalis etc. and concert setup is Singer supported by Violin, Mridangam, etc. You can know more about Indian Classical Music form [this](https://en.wikipedia.org/wiki/Indian_classical_music) link.
 
 ![Hindustani Music](./hindustani.jpeg)

@@ -12,6 +12,8 @@ image: "./after.jpg"
 
 First, you might think what KWoC is. It is **Kharagpur Winter of Code**. It is a 5-week long online programme for the open source developers conducted by open source club at IIT-Kharagpur. This could be helpful for who would participate in **Google Summer of Code** **(GSoC)**.
 
+<!--truncate-->
+
 You can know more about KWoC from [here][kwoc].
 
 ### How I got to know about KWoC

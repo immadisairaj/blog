@@ -9,6 +9,8 @@ comments: true
 
 If you want to cache web API's in your flutter project, then follow this blog.
 
+<!--truncate-->
+
 ### flutter_cache_manager
 
 Caching a normal GET request has been made simple using the package [flutter_cache_manager][flutter_cache_manager].

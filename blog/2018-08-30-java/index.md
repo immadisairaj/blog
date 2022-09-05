@@ -14,6 +14,8 @@ Java is an *Object Oriented Programming* language that produces software for mul
 
 ![Java](./java.jpg)
 
+<!--truncate-->
+
 ## History of Java?
 
 The java project was initiated by *James Gosling*, Mike Sheridan, and Patrick Naughton at Sun Microsystems in June 1991. It was first released in the year 1995. Till now there are many versions released (you can check all the versions [here](https://en.wikipedia.org/wiki/Java_version_history)). Now java is under Oracle as it acquired Sun Microsystems in 2010.

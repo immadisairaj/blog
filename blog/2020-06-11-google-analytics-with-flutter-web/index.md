@@ -12,7 +12,9 @@ Want to add Google Analytics to your flutter web application? Then, this blog is
 
 I didn't find any direct methods to add google-analytics to my flutter-web application while I was searching. I've managed to integrate it successfully by referring to different blogs. So, I am writing this blog to make it easier.
 
-![Flutter + Gooele Analytics](./flutter-google-analytics.png)
+![Flutter + Google Analytics](./flutter-google-analytics.png)
+
+<!--truncate-->
 
 ## Steps to be followed
 

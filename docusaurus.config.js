@@ -43,7 +43,7 @@ const config = {
           blogDescription: 'blogs by immadisairaj',
           showReadingTime: true,
           blogSidebarCount: 9,
-          postsPerPage: 1,
+          postsPerPage: 5,
           path: './blog',
           routeBasePath: '/',
           // Please change this to your repo.

@@ -9,6 +9,8 @@ comments: true
 
 Starting from nothing to having great experiences with [Chapel-language][chapel-lang]. Here is my Journey with Chapel!.
 
+<!--truncate-->
+
 ## Selection of the Organization
 I had already contributed to an open-source organization previously. But, that was the initial start of my open-source contribution and was not able to contribute much. This time I planned to contribute to an organization where I can get more exposure into some deep computer concepts.
 

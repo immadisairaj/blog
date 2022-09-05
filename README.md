@@ -1,3 +1,11 @@
+# New Blog
+
+This is a new blogging site which was ported from [jekyll-blog](https://immadisairaj.github.io/jekyll-blog).
+
+This blog uses Docusaurus 2.
+
+No blog post from previous is left out. All the google analytics + disqus are here too.
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.

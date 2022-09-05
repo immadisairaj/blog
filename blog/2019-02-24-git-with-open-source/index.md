@@ -9,6 +9,8 @@ comments: true
 
 Here in this blog, I will be giving an overview of using the **git version control system** while contributing to *open-source projects*.
 
+<!--truncate-->
+
 ### Forking and Cloning a repo into your local system
 
 Initially, choose an open-source project on the domain of your interest for which you would like to contribute. Let the project repository be “*project-repo*“.

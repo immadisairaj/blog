@@ -14,6 +14,8 @@ Want to build a cool widget in flutter? This blog contains how I had developed a
 
 Arrow Pad? What is it? Well, it's just a pad containing arrow's and responds to the inputs we give. The first thing which comes to mind is the arrow keys in a computer. Isn't it? But that is not what inspired me and instead is mp3 players.
 
+<!--truncate-->
+
 ![Computer Arrow Keys](./arrow-keys.png)
 
 *Compouter Arrow Keys on Keyboard [Image Source](https://usefulicons.com/lonely/arrow-keys)*

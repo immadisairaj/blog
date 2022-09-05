@@ -16,6 +16,8 @@ __Bharatanatyam Dance Program:__ An event which includes Bharatanatyam performan
 
 ![Bharatanatyam](./intro.JPG)
 
+<!--truncate-->
+
 *Bharatanatyam*
 
 # Pre-Planning
