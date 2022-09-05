@@ -18,8 +18,6 @@ __Bharatanatyam Dance Program:__ An event which includes Bharatanatyam performan
 
 *Bharatanatyam*
 
-<!--truncate-->
-
 # Pre-Planning
 
 Before the actual planning, there are a few things to consider. This phase reduces the chances of any problems/obstacles during the later stages.

@@ -10,8 +10,6 @@ image: "./thumbnil.png"
 
 Want to build a cool widget in flutter? This blog contains how I had developed an arrow pad.
 
-<!--truncate-->
-
 ## Arrow Pad
 
 Arrow Pad? What is it? Well, it's just a pad containing arrow's and responds to the inputs we give. The first thing which comes to mind is the arrow keys in a computer. Isn't it? But that is not what inspired me and instead is mp3 players.

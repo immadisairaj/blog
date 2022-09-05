@@ -9,8 +9,6 @@ comments: true
 
 This blog tells why and how I have ported my blog from WordPress to Jekyll hosted in GitHub.
 
-<!--truncate-->
-
 ### Did I like WordPress?
 
 Yes, I liked the WordPress blogging site. I had chosen the free version of the site as I was, however, using it to blog. The site had all the custom templates and even have enough storage. I didn't even need to change the code inside if I had to any customizations, everything was dynamic and pretty handy. I also had few blogs hosted there, and now I don't update it anymore. You can check out the site [here][wordpress].

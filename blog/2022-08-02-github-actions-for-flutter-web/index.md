@@ -12,8 +12,6 @@ Do you deploy your Flutter web application in gh-pages? And you are tired of man
 
 ![Thumbnail Design](./thumbnail.jpeg)
 
-<!--truncate-->
-
 ## What are GitHub Actions?
 
 In a simplified manner, Actions are scripts automated to do something after they are on GitHub.

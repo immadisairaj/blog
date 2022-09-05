@@ -12,8 +12,6 @@ mistake /mɪˈsteɪk/ : an act or judgement that is misguided or wrong.
 
 A mistake can be taken in two ways, either the one which helps you or the one which hinders you. What you choose it to be will be the one to lead you. I will be going through a few points which will give you some insights on what my thoughts are.
 
-<!--truncate-->
-
 ### What would happen if mistakes didn't exist?
 
 ![Robots](./robots.jpg)
