@@ -64,6 +64,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
+      metadata: [{ name: 'robots', content: 'max-image-preview:large' }],
+
       navbar: {
         title: 'Blog',
         logo: {
