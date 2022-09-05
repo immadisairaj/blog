@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[6011],{5770:a=>{a.exports=JSON.parse('{"permalink":"/blog/page/11","page":11,"postsPerPage":1,"totalPages":12,"totalCount":12,"previousPage":"/blog/page/10","nextPage":"/blog/page/12","blogDescription":"blogs by immadisairaj","blogTitle":"Sai Rajendra Immadi"}')}}]);

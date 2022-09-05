@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[7887],{1234:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/git-hub-actions","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"blogs by immadisairaj","blogTitle":"Sai Rajendra Immadi"}')}}]);

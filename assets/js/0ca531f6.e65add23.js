@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[5536],{3242:a=>{a.exports=JSON.parse('{"label":"Bharatanatyam","permalink":"/blog/tags/bharatanatyam","allTagsPath":"/blog/tags","count":1}')}}]);

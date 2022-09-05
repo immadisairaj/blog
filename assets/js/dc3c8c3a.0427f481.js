@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[3825],{4274:s=>{s.exports=JSON.parse('{"label":"Android","permalink":"/blog/tags/android","allTagsPath":"/blog/tags","count":1}')}}]);
