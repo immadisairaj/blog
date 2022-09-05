@@ -5,8 +5,8 @@ import BlogPostItem from '@theme-original/BlogPostItem'
 
 export default function BlogPostItemWrapper(props) {
   const { metadata } = useBlogPost()
-  const { frontMatter, slug, title } = metadata
-  const { comments = true } = frontMatter
+  const { frontMatter, title } = metadata
+  const { comments = false, slug } = frontMatter
 
   return (
     <>
@@ -25,7 +25,7 @@ export default function BlogPostItemWrapper(props) {
         <DiscussionEmbed
           shortname='immadisairaj-github-io'
           config={{
-            url: slug,
+            url: 'https://immadisairaj.github.io/blog/'+slug,
             identifier: slug,
             title,
             language: 'en_US',
