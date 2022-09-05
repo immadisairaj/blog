@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[7596],{875:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/android","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"blogs by immadisairaj","blogTitle":"Sai Rajendra Immadi"}')}}]);

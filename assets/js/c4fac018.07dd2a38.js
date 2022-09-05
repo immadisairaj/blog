@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[9045],{4834:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/flutter/page/4","page":4,"postsPerPage":1,"totalPages":4,"totalCount":4,"previousPage":"/blog/tags/flutter/page/3","blogDescription":"blogs by immadisairaj","blogTitle":"Sai Rajendra Immadi"}')}}]);

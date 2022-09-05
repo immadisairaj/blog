@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_blog=self.webpackChunkdocusaurus_blog||[]).push([[2891],{440:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/tech/page/8","page":8,"postsPerPage":1,"totalPages":9,"totalCount":9,"previousPage":"/blog/tags/tech/page/7","nextPage":"/blog/tags/tech/page/9","blogDescription":"blogs by immadisairaj","blogTitle":"Sai Rajendra Immadi"}')}}]);
