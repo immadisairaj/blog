@@ -4,6 +4,7 @@ title: "GitHub Actions to deploy Flutter Web to gh-pages"
 date: 2022-08-02 19:50:00 +0530
 tags: [Flutter, Open-Source, GitHub Actions, Tech]
 authors: [immadisairaj]
+comments: true
 image: "./thumbnail.jpeg"
 ---
 
@@ -86,8 +87,7 @@ You can look at comments starting with `#!` in the following to make changes acc
 
 <!-- <script async defer src="https://gist.github.com/immadisairaj/69a2942b68ef19f078c3e864ee3c41fe.js"></script> -->
 
-```dart
-# File: .github/workflows/web_deploy.yml
+```dart title=".github/workflows/web_deploy.yml"
 name: Deploy to GitHub Pages
 
 on:

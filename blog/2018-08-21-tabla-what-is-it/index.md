@@ -4,6 +4,7 @@ title:  "Tabla…. What is it?"
 date:   2018-08-21 18:00:00 +0530
 tags: [Tabla, Music]
 authors: [immadisairaj]
+comments: true
 image: "./tabla.jpeg"
 ---
 

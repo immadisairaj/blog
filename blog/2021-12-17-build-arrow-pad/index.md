@@ -4,6 +4,7 @@ title:  "Build an Arrow Pad in Flutter"
 date:   2021-12-17 10:52:00 +0530
 tags: [Flutter, Tech]
 authors: [immadisairaj]
+comments: true
 image: "./thumbnil.png"
 ---
 

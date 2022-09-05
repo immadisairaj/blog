@@ -4,6 +4,7 @@ title: "Port The Blog"
 date:   2020-06-11 12:07:00 +0530
 tags: [Blog, Tech, Open-Source]
 authors: [immadisairaj]
+comments: true
 ---
 
 This blog tells why and how I have ported my blog from WordPress to Jekyll hosted in GitHub.

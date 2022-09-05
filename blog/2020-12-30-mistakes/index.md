@@ -4,6 +4,7 @@ title: "Power of Mistakes"
 date:   2020-12-30 16:42:00 +0530
 tags: [General]
 authors: [immadisairaj]
+comments: true
 image: "./robots.jpg"
 ---
 

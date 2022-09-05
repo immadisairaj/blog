@@ -4,6 +4,7 @@ title:  "Git with Open-Source"
 date:   2019-02-24 18:00:00 +0530
 tags: [Tech, Open-Source]
 authors: [immadisairaj]
+comments: true
 ---
 
 Here in this blog, I will be giving an overview of using the **git version control system** while contributing to *open-source projects*.

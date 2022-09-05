@@ -4,6 +4,7 @@ title: "Effort Behind a Dance Program"
 date:   2021-11-08 13:27:00 +0530
 tags: [Bharatanatyam, Music]
 authors: [immadisairaj]
+comments: true
 image: "./thumbnil.jpeg"
 ---
 

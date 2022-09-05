@@ -4,6 +4,7 @@ title:  "Java"
 date:   2018-08-30 18:00:00 +0530
 tags: [Java, Tech]
 authors: [immadisairaj]
+comments: true
 image: "./java.jpg"
 ---
 

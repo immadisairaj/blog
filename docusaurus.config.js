@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -68,7 +68,7 @@ const config = {
         title: 'Blog',
         logo: {
           alt: 'Sai Rajendra Immadi',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
           width: 32,
           height: 32,
         },
@@ -80,8 +80,8 @@ const config = {
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {to: 'https://immadisairaj.github.io', label: 'Home', position: 'left'},
-          { to: '/blog-archive', label: 'Blog Archive', position: 'left' },
+          {to: 'https://immadisairaj.github.io', label: 'Home', position: 'left',},
+          {to: '/blog-archive', label: 'Blog Archive', position: 'left',},
           {
             href: 'https://github.com/immadisairaj',
             label: 'GitHub',

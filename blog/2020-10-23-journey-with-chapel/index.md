@@ -4,6 +4,7 @@ title: "Journey with Chapel"
 date:   2020-10-23 12:42:00 +0530
 tags: [Tech, Open-Source]
 authors: [immadisairaj]
+comments: true
 ---
 
 Starting from nothing to having great experiences with [Chapel-language][chapel-lang]. Here is my Journey with Chapel!.
