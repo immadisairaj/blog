@@ -10,6 +10,7 @@ const config = {
   tagline: 'blogs by immadisairaj',
   url: 'https://immadisairaj.github.io',
   baseUrl: '/blog/',
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
