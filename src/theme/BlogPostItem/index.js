@@ -10,15 +10,16 @@ export default function BlogPostItemWrapper(props) {
   const { comments = false, slug } = frontMatter
   const location = useLocation();
 
-  // don't show the comments, license when the current page is homepage
-  const noShow = (location.pathname == '/blog/') || (location.pathname.startsWith('/blog/page'))
+  // don't show the comments, license when the current page is homepage / tags
+  const noShow = (location.pathname == '/blog/')
+                  || (location.pathname.startsWith('/blog/page'))
+                  || (location.pathname.startsWith('/blog/tags'))
 
   return (
     <>
       <BlogPostItem {...props} />
       {!noShow && (
         <>
-        {comments && (
           <div class="license-wrapper
           d-flex justify-content-between align-items-center pt-2 pb-2">
             This post is licensed under
@@ -27,18 +28,17 @@ export default function BlogPostItemWrapper(props) {
             &nbsp;
             by the author.
           </div>
-        )}
-        {comments && (
-          <DiscussionEmbed
-            shortname='immadisairaj-github-io'
-            config={{
-              url: 'https://immadisairaj.github.io/blog/'+slug,
-              identifier: slug,
-              title,
-              language: 'en_US',
-            }}
-          />
-        )}
+          {comments && (
+            <DiscussionEmbed
+              shortname='immadisairaj-github-io'
+              config={{
+                url: 'https://immadisairaj.github.io/blog/'+slug,
+                identifier: slug,
+                title,
+                language: 'en_US',
+              }}
+            />
+          )}
         </>
       )}
     </>
