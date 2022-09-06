@@ -37,6 +37,10 @@ const config = {
           trackingID: 'UA-168944360-2',
           anonymizeIP: true,
         },
+        gtag: {
+          trackingID: 'G-3DX3BMFPGD',
+          anonymizeIP: true,
+        },
         docs: false,
         blog: {
           blogTitle: 'Sai Rajendra Immadi',
