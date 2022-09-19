@@ -72,16 +72,16 @@ const config = {
 
       metadata: [{ name: 'robots', content: 'max-image-preview:large' }],
 
-      // algolia: {
-      //   // The application ID provided by Algolia
-      //   appId: 'YOUR_APP_ID',
-      //   // Public API key: it is safe to commit it
-      //   apiKey: 'YOUR_SEARCH_API_KEY',
-      //   indexName: 'YOUR_INDEX_NAME',
-      //   // Optional: path for search page that enabled by default (`false` to disable it)
-      //   searchPagePath: 'search',
-      //   //... other Algolia params
-      // },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'PUN9RZXQWB',
+        // Public API key: it is safe to commit it
+        apiKey: '5bd6cb61ce2a1dd5166832d9dec514a4',
+        indexName: 'immadisairaj',
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+        //... other Algolia params
+      },
 
       navbar: {
         title: 'Blog',
