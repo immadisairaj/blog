@@ -120,6 +120,7 @@ jobs:
           git config --global user.email <email ID>
           #! Update with your username associated with GitHub
           git config --global user.name <username>
+          git config --global init.defaultBranch main
           git init
           # the repository to push the deploy into
           #! Update the following with your username and repository
