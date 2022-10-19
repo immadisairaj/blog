@@ -76,7 +76,7 @@ const config = {
         // The application ID provided by Algolia
         appId: 'PUN9RZXQWB',
         // Public API key: it is safe to commit it
-        apiKey: '5bd6cb61ce2a1dd5166832d9dec514a4',
+        apiKey: '2ba18e456b0435291e78d325601f9360',
         indexName: 'immadisairaj',
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
